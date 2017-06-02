@@ -107,7 +107,7 @@ ItemDisplay[INF ILVL>14 !RW !leg]:
 //1-16
 ItemDisplay[r01]: %ORANGE%El Rune[1]
 ItemDisplay[r02]: %ORANGE%Eld Rune[2] 
-ItemDisplay[r03]: %ORANGE%Tir Tune[3]
+ItemDisplay[r03]: %ORANGE%Tir Rune[3]
 ItemDisplay[r04]: %ORANGE%Nef Rune[4]
 ItemDisplay[r05]: %ORANGE%Eth Rune[5]
 ItemDisplay[r06]: %ORANGE%Ith Rune[6]
