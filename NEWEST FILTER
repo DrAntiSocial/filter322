@@ -16,7 +16,7 @@ ItemDisplay[CL4 SOCK=2 SK84>0]: %NAME%
 //Hide Gold Piles Smaller Than (<) X
 ItemDisplay[GOLD<4000]:
 //Health & Mana Potions
-ItemDisplay[rvl]: %PURPLE%!%WHITE%FULL
+ItemDisplay[rvl]: %PURPLE%!FULL
 ItemDisplay[hp4]: %RED%!%WHITE%L%RED%Pot
 ItemDisplay[hp5]: %RED%!%WHITE%XL%RED%Pot
 ItemDisplay[mp4]: %BLUE%!%WHITE%L%BLUE%Pot
