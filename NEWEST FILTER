@@ -16,11 +16,11 @@ ItemDisplay[CL4 SOCK=2 SK84>0]: %NAME%
 //Hide Gold Piles Smaller Than (<) X
 ItemDisplay[GOLD<4000]:
 //Health & Mana Potions
-ItemDisplay[rvl]: %PURPLE%!FULL
-ItemDisplay[hp4]: %RED%!%WHITE%L%RED%!
-ItemDisplay[hp5]: %RED%!%WHITE%XL%RED%!
-ItemDisplay[mp4]: %BLUE%!%WHITE%L%BLUE%!
-ItemDisplay[mp5]: %BLUE%!%WHITE%XL%BLUE%!
+ItemDisplay[rvl]: %PURPLE%!%WHITE%FULL
+ItemDisplay[hp4 CLVL<66]: %RED%!%WHITE%L%RED%Pot
+ItemDisplay[hp5]: %RED%!%WHITE%XL%RED%Pot
+ItemDisplay[mp4 CLVL<66]: %BLUE%!%WHITE%L%BLUE%Pot
+ItemDisplay[mp5]: %BLUE%!%WHITE%XL%BLUE%Pot
 ItemDisplay[rvs CLVL>65]: 
 ItemDisplay[rvs CLVL<66]: %PURPLE%! %WHITE%Rejuv
 ItemDisplay[hp1 CLVL<15]: %RED%!%WHITE%Minor Heal
@@ -29,14 +29,12 @@ ItemDisplay[hp3 CLVL<24]: %RED%!%WHITE%Healing
 ItemDisplay[hp1 CLVL>14]:
 ItemDisplay[hp2 CLVL>17]:
 ItemDisplay[hp3 CLVL>24]:
-ItemDisplay[hp4 CLVL>65]:
 ItemDisplay[mp1 CLVL<15]: %BLUE%!%WHITE%Minor Mana
 ItemDisplay[mp2 CLVL<20]: %BLUE%!%WHITE%Light Mana
 ItemDisplay[mp3 CLVL<26]: %BLUE%!%WHITE%Mana
 ItemDisplay[mp1 CLVL>14]:
 ItemDisplay[mp2 CLVL>19]:
 ItemDisplay[mp3 CLVL>25]:
-ItemDisplay[mp4 CLVL>65]:
 //Essences (Respec Token)
 ItemDisplay[tes]: %ORANGE%Suffering [Andariel]
 ItemDisplay[ceh]: %ORANGE%Hatred [Mephisto]
@@ -55,6 +53,8 @@ ItemDisplay[ma3]: %PURPLE%Tier 3 Relic
 ItemDisplay[ma4]: %PURPLE%Tier 4 Relic
 ItemDisplay[cx6]: %PURPLE%%NAME%
 ItemDisplay[maz]: %PURPLE%%NAME%
+ItemDisplay[cx8]: %PURPLE%Orb of %GREEN% Enchantment
+ItemDisplay[ma6]: %PURPLE%Tier 5 Relic
 //Wirt's Leg
 ItemDisplay[leg]: %NAME%
 //Uber Keys
@@ -107,7 +107,7 @@ ItemDisplay[INF ILVL>14 !RW !leg]:
 //1-16
 ItemDisplay[r01]: %ORANGE%El Rune[1]
 ItemDisplay[r02]: %ORANGE%Eld Rune[2] 
-ItemDisplay[r03]: %ORANGE%Tir Rune[3]
+ItemDisplay[r03]: %ORANGE%Tir Tune[3]
 ItemDisplay[r04]: %ORANGE%Nef Rune[4]
 ItemDisplay[r05]: %ORANGE%Eth Rune[5]
 ItemDisplay[r06]: %ORANGE%Ith Rune[6]
