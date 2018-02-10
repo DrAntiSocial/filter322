@@ -105,27 +105,27 @@ ItemDisplay[INF ILVL>14 !RW !leg]:
 
 //RUNES
 //1-16
-ItemDisplay[r01]: %ORANGE%El Rune[1]
-ItemDisplay[r02]: %ORANGE%Eld Rune[2] 
-ItemDisplay[r03]: %ORANGE%Tir Tune[3]
-ItemDisplay[r04]: %ORANGE%Nef Rune[4]
-ItemDisplay[r05]: %ORANGE%Eth Rune[5]
-ItemDisplay[r06]: %ORANGE%Ith Rune[6]
-ItemDisplay[r07]: %ORANGE%Tal Rune[7]
-ItemDisplay[r08]: %ORANGE%Ral Rune[8]
-ItemDisplay[r09]: %ORANGE%Ort Rune[9]
-ItemDisplay[r10]: %ORANGE%Thul Rune[10]
-ItemDisplay[r11]: %ORANGE%Amn Rune[11]
-ItemDisplay[r12]: %ORANGE%Sol Rune[12]
-ItemDisplay[r13]: %ORANGE%Shael Rune[13]
-ItemDisplay[r14]: %ORANGE%Dol Rune[14]
-ItemDisplay[r15]: %ORANGE%Hel Rune[15]
-ItemDisplay[r16]: %ORANGE%Io Rune[16]
+ItemDisplay[r01]: %ORANGE%El Rune
+ItemDisplay[r02]: %ORANGE%Eld Rune
+ItemDisplay[r03]: %ORANGE%Tir Rune
+ItemDisplay[r04]: %ORANGE%Nef Rune
+ItemDisplay[r05]: %ORANGE%Eth Rune
+ItemDisplay[r06]: %ORANGE%Ith Rune
+ItemDisplay[r07]: %ORANGE%Tal Rune
+ItemDisplay[r08]: %ORANGE%Ral Rune
+ItemDisplay[r09]: %ORANGE%Ort Rune
+ItemDisplay[r10]: %ORANGE%Thul Rune
+ItemDisplay[r11]: %ORANGE%Amn Rune
+ItemDisplay[r12]: %ORANGE%Sol Rune
+ItemDisplay[r13]: %ORANGE%Shael Rune
+ItemDisplay[r14]: %ORANGE%Dol Rune
+ItemDisplay[r15]: %ORANGE%Hel Rune
+ItemDisplay[r16]: %ORANGE%Io Rune
 //17-23
-ItemDisplay[r17]: %ORANGE%Lum Rune[17]
-ItemDisplay[r18]: %ORANGE%Ko Rune [18]
-ItemDisplay[r19]: %ORANGE%Fal Rune[19]
-ItemDisplay[r20]: %ORANGE%Lem Rune[20] 
+ItemDisplay[r17]: %ORANGE%Lum Rune
+ItemDisplay[r18]: %ORANGE%Ko Rune 
+ItemDisplay[r19]: %ORANGE%Fal Rune
+ItemDisplay[r20]: %ORANGE%Lem Rune
 ItemDisplay[r21]: %ORANGE%Pul Rune[21]
 ItemDisplay[r22]: %ORANGE%Um Rune[22]
 ItemDisplay[r23]: %ORANGE%Mal Rune[23]
