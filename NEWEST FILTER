@@ -17,9 +17,9 @@ ItemDisplay[CL4 SOCK=2 SK84>0]: %NAME%
 ItemDisplay[GOLD<4000]:
 //Health & Mana Potions
 ItemDisplay[rvl]: %PURPLE%!%WHITE%FULL
-ItemDisplay[hp4 CLVL<66]: %RED%!%WHITE%L%RED%Pot
+ItemDisplay[hp4]: %RED%!%WHITE%L%RED%Pot
 ItemDisplay[hp5]: %RED%!%WHITE%XL%RED%Pot
-ItemDisplay[mp4 CLVL<66]: %BLUE%!%WHITE%L%BLUE%Pot
+ItemDisplay[mp4]: %BLUE%!%WHITE%L%BLUE%Pot
 ItemDisplay[mp5]: %BLUE%!%WHITE%XL%BLUE%Pot
 ItemDisplay[rvs CLVL>65]: 
 ItemDisplay[rvs CLVL<66]: %PURPLE%! %WHITE%Rejuv
