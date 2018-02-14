@@ -1939,14 +1939,14 @@ ItemDisplay[NMAG !RW 9cs ILVL>59]:
 //ItemDisplay[NMAG !RW 9hw ILVL>59]:
 //ItemDisplay[NMAG !RW 9tw ILVL>59]:
 ItemDisplay[NMAG !RW 9qr ILVL>59]:
-ItemDisplay[NMAG !RW 7ar ILVL>99]:
+ItemDisplay[NMAG !RW 7ar ILVL>62]:
 ItemDisplay[NMAG !RW 7wb ILVL>68]:
 ItemDisplay[NMAG !RW 7xf ILVL>68]:
 ItemDisplay[NMAG !RW 7cs ILVL>68]:
 //ItemDisplay[NMAG !RW 7lw ILVL>68]:
 //ItemDisplay[NMAG !RW 7hw ILVL>68]:
 //ItemDisplay[NMAG !RW 7tw ILVL>68]:
-ItemDisplay[NMAG !RW 7qr ILVL>99]:
+ItemDisplay[NMAG !RW 7qr ILVL>62]:
 //Amazon Weapons
 ItemDisplay[NMAG !RW am1 ILVL>26]:
 ItemDisplay[NMAG !RW am2 ILVL>26]:
