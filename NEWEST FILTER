@@ -53,7 +53,7 @@ ItemDisplay[ma3]: %PURPLE%Tier 3 Relic
 ItemDisplay[ma4]: %PURPLE%Tier 4 Relic
 ItemDisplay[cx6]: %PURPLE%%NAME%
 ItemDisplay[maz]: %PURPLE%%NAME%
-ItemDisplay[cx8]: %PURPLE%Orb of %GREEN% Enchantment
+ItemDisplay[cx8]: %PURPLE%Orb of%GREEN% Enchantment
 ItemDisplay[ma6]: %PURPLE%Tier 5 Relic
 //Wirt's Leg
 ItemDisplay[leg]: %NAME%
