@@ -212,21 +212,21 @@ ItemDisplay[gsb CLVL>49]:
 ItemDisplay[gsy CLVL>49]:
 ItemDisplay[sku CLVL>49]:
 //Gems flawless
-ItemDisplay[gzv]: %WHITE%Flawless %PURPLE%Amethyst
-ItemDisplay[glw]: %WHITE%Flawless %ORANGE%Diamond
-ItemDisplay[glg]: %WHITE%Flawless %GREEN%Emerald
-ItemDisplay[glr]: %WHITE%Flawless %RED%Ruby
-ItemDisplay[glb]: %WHITE%Flawless %BLUE%Sapphire
-ItemDisplay[gly]: %WHITE%Flawless %YELLOW%Topaz
-ItemDisplay[skl]: %WHITE%Flawless %GRAY%Skull
+ItemDisplay[gzv]: %ORANGE%Flawless %PURPLE%Amethyst
+ItemDisplay[glw]: %ORANGE%Flawless %WHITE%Diamond
+ItemDisplay[glg]: %ORANGE%Flawless %GREEN%Emerald
+ItemDisplay[glr]: %ORANGE%Flawless %RED%Ruby
+ItemDisplay[glb]: %ORANGE%Flawless %BLUE%Sapphire
+ItemDisplay[gly]: %ORANGE%Flawless %YELLOW%Topaz
+ItemDisplay[skl]: %ORANGE%Flawless %TAN%Skull
 //Gems Perfect
-ItemDisplay[gpv]: %PURPLE%P Amethyst
-ItemDisplay[gpw]: %WHITE%P Diamond
-ItemDisplay[gpg]: %GREEN%P Emerald
-ItemDisplay[gpr]: %RED%P Ruby
-ItemDisplay[gpb]: %BLUE%P Sapphire
-ItemDisplay[gpy]: %YELLOW%P Topaz
-ItemDisplay[skz]: %GRAY%P Skull
+ItemDisplay[gpv]: %ORANGE%Perfect %PURPLE%AMETHYST
+ItemDisplay[gpw]: %ORANGE%Perfect %WHITE%DIAMOND
+ItemDisplay[gpg]: %ORANGE%Perfect %GREEN%EMERALD
+ItemDisplay[gpr]: %ORANGE%Perfect %RED%RUBY
+ItemDisplay[gpb]: %ORANGE%Perfect %BLUE%SAPPHIRE
+ItemDisplay[gpy]: %ORANGE%Perfect %YELLOW%TOPAZ
+ItemDisplay[skz]: %ORANGE%Perfect %TAN%SKULL
 
 
 //Uniques
